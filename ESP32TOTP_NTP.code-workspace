@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": "../ESP32TOTP_NTP"
+		},
+		{
+			"name": "HeltecV3TOTP",
+			"path": "../HeltecV3TOTP"
+		},
+		{
+			"name": "GreenBox Flight Tracker",
+			"path": "."
+		},
+		{
+			"name": "Cardputer ADV Flight Tracker",
+			"path": "../Cardputer ADV Flight Tracker"
+		},
+		{
+			"name": "ADV_Arkanoid",
+			"path": "../ADV_Arkanoid"
+		},
+		{
+			"name": "ADVTicker",
+			"path": "../ADVTicker"
+		}
+	],
+	"settings": {}
+}
